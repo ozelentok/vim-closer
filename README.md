@@ -77,12 +77,8 @@ Do you edit CSS often? Of course you do. Let me help you make that [a better exp
 
 ## Thanks
 
-**vim-closer** © 2015+, Rico Sta. Cruz. Released under the [MIT] License.<br>
+Forked from **rstacruz/vim-closer** © 2015+, Rico Sta. Cruz. Released under the [MIT] License.<br>
 Authored and maintained by Rico Sta. Cruz with help from contributors ([list][contributors]).
 
-> [ricostacruz.com](http://ricostacruz.com) &nbsp;&middot;&nbsp;
-> GitHub [@rstacruz](https://github.com/rstacruz) &nbsp;&middot;&nbsp;
-> Twitter [@rstacruz](https://twitter.com/rstacruz)
-
 [MIT]: http://mit-license.org/
-[contributors]: http://github.com/rstacruz/vim-closer/contributors
+[contributors]: http://github.com/ozelentok/vim-closer/contributors
